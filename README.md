@@ -1,14 +1,21 @@
 ## Hi there !👋
 
 My name is Emre.
+
 I am currently an engineering student in Ankara, Türkiye
+
 I am currently learning Python.
+
 I am studying Geomatic Engineering!
+
 I currently don't have a project I am working on.
 
 Some fun facts about me:
+
 I play the guitar and sing.
+
 I love playing D&D!
+
 I was born on Valentine's Day.
 
 <!--
