@@ -6,7 +6,7 @@ I am currently an engineering student in Ankara, Türkiye
 
 I am currently learning Python.
 
-I am studying Geomatic Engineering!
+I am studying Geomatics Engineering!
 
 I currently don't have a project I am working on.
 
