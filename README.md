@@ -16,7 +16,7 @@ I play the guitar and sing.
 
 I love playing D&D!
 
-I was born on Valentine's Day.
+I love collecting and reading comic books.
 
 <!--
 **boot-dot-dev/boot-dot-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
